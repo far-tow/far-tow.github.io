@@ -54,3 +54,18 @@ header {
 		border-bottom-right-radius: 0.3rem;
 	}
 }
+.btn {
+	border: 0;
+}
+
+/* Font Awsome color change */
+
+.fa-link,
+.fa-phone,
+.fa-map-marker-alt,
+.fa-envelope,
+.fa-facebook-square,
+.fa-instagram,
+.fa-youtube {
+	color: #8f2f44;
+}
