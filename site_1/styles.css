@@ -1,0 +1,62 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container-page {
+	max-width: 1024px;
+	margin: auto;
+}
+
+body {
+	font-family: sans-serif;
+	background: rgb(243, 236, 236);
+	font-family: sans-serif;
+}
+
+header {
+	display: grid;
+	grid-template: auto auto / 10fr 90fr;
+}
+
+.img-logo {
+	height: 118px;
+	margin-left: 10px;
+}
+
+.artical {
+	padding: 10px;
+	margin: 20px;
+	justify-items: center;
+	background-color: rgba(201, 198, 198, 0.43);
+}
+
+/* Login page */
+
+.gradient-custom-2 {
+	/* fallback for old browsers */
+	background: #fccb90;
+
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(
+		to right,
+		#ee7724,
+		#d8363a,
+		#dd3675,
+		#b44593
+	);
+
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+}
+
+@media (min-width: 768px) {
+	.gradient-form {
+	}
+}
+@media (min-width: 769px) {
+	.gradient-custom-2 {
+		border-top-right-radius: 0.3rem;
+		border-bottom-right-radius: 0.3rem;
+	}
+}
