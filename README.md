@@ -1,6 +1,15 @@
-# far-tow.github.io
-A test repository for Front-End projects. 
+# Welcome to far-tow.github.io
 
-## Project 1: site_1 
-A HTML test site made by using Bootstrap. To see it live please go to this page: <a href="https://far-tow.github.io/site_1/" target="_blank">Project 1 : site_1</a>
+## **A test repository for Front-End projects.**
 
+---
+
+### Project 1: site_1
+
+> A HTML test site made by using Bootstrap. To see it live please go to this page:
+>
+> ### **[Project 1 : site_1](https://far-tow.github.io/site_1)**
+
+[![Alt text](site_1/images/site1_preview.jpg)](far-tow.github.io/site_1/)
+
+---
