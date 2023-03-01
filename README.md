@@ -10,6 +10,6 @@
 >
 > ### **[Project 1 : site_1](https://far-tow.github.io/site_1)**
 
-[![Alt text](site_1/images/site1_preview.jpg)](far-tow.github.io/site_1/)
+[![Alt text](site_1/images/site1_preview.jpg)](https://far-tow.github.io/site_1)
 
 ---
