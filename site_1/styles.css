@@ -29,6 +29,7 @@ header {
 	margin: 20px;
 	justify-items: center;
 	background-color: rgba(201, 198, 198, 0.43);
+	border-radius: 8px;
 }
 
 /* Login page */
